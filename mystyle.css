@@ -63,6 +63,7 @@ h4 {
 }
 
 #Prgr1 {
+  border-radius: 25px;
   width: 300px;
   border: 5px solid #d89177;
   padding: 50px;
@@ -110,4 +111,8 @@ margin: 10px;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
+}
+
+#Prgr2 {
+  background-image: linear-gradient(to right, pink , yellow);
 }
